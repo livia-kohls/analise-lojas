@@ -70,4 +70,4 @@ Com base nesses fatores, recomenda-se que a  **Loja 4** seja vendida, concentran
 
 ## 📂 Estrutura do Projeto
 ├── analise_lojas.ipynb
-└── README.md
+├── README.md
